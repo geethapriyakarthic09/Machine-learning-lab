@@ -1,0 +1,2 @@
+Locally weighted regression done. Plot saved as lwr_plot.png
+First 5 predicted tips: [3.17 3.14 3.24 2.21 3.22]
